@@ -1,6 +1,7 @@
+
 <div align="center">
 
-  # Doxynix Intelligence  <a href="https://doxynix.space">  <img align="right" src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Website-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo" height="40">  </a>
+  <h2>Doxynix Intelligence</h1>  <a href="https://doxynix.space">  <img align="right" src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Website-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo" height="30">  </a>
 
   **Next-Gen Repository Analysis & Documentation Engine**
   
