@@ -4,8 +4,8 @@
 
   **Next-Gen Repository Analysis & Documentation Engine**
   
-  [![CI Status](https://github.com/doxynix/web/actions/workflows/ci.yml/badge.svg)](https://github.com/doxynix/web/actions)
-  [![Mutation Score](https://img.shields.io/badge/Mutation_Score-High-success?style=flat&logo=stryker&logoColor=white)](https://github.com/doxynix/web)
+  [![CI Status](https://github.com/doxynix/doxynix/actions/workflows/ci.yml/badge.svg)](https://github.com/doxynix/doxynix/actions)
+  [![Mutation Score](https://img.shields.io/badge/Mutation_Score-High-success?style=flat&logo=stryker&logoColor=white)](https://github.com/doxynix/doxynix)
   [![Architecture](https://img.shields.io/badge/Architecture-FSD-orange?style=flat)](https://feature-sliced.design/)
   [![License](https://img.shields.io/badge/license-MIT-blue?style=flat)](LICENSE)
 
