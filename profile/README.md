@@ -11,7 +11,7 @@
   [![CI Status](https://github.com/doxynix/doxynix/actions/workflows/ci.yml/badge.svg)](https://github.com/doxynix/doxynix/actions)
   [![Mutation Score](https://img.shields.io/badge/Mutation_Score-High-success?style=flat&logo=stryker&logoColor=white)](https://github.com/doxynix/doxynix)
   [![Architecture](https://img.shields.io/badge/Architecture-FSD-orange?style=flat)](https://feature-sliced.design/)
-  [![License](https://img.shields.io/badge/license-MIT-blue?style=flat)](LICENSE)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
   <p align="center">
     <b>Analyze. Understand. Document.</b><br>
